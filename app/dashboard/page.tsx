@@ -73,9 +73,9 @@ export default function Dashboard() {
         <div className="flex items-center justify-between">
           <div>
             <h1 className="text-3xl font-bold tracking-tight">Dashboard</h1>
-            <p className="text-muted-foreground">
+            <div className="text-muted-foreground">
               Welcome to {restaurant?.name} <Badge variant="outline">{restaurant?.code}</Badge>
-            </p>
+            </div>
           </div>
           <Button variant="outline" size="sm" onClick={handleRefresh}>
             <RefreshCw className="h-4 w-4 mr-2" />

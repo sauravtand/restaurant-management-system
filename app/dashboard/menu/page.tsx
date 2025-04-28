@@ -116,9 +116,9 @@ export default function MenuManagement() {
       <div className="flex justify-between items-center mb-6">
         <div>
           <h1 className="text-3xl font-bold tracking-tight">Menu Management</h1>
-          <p className="text-muted-foreground">
+          <div className="text-muted-foreground">
             Manage menu for {restaurant?.name} <Badge variant="outline">{restaurant?.code}</Badge>
-          </p>
+          </div>
         </div>
         <Dialog open={isAddDialogOpen} onOpenChange={setIsAddDialogOpen}>
           <DialogTrigger asChild>

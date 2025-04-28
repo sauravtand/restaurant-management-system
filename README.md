@@ -140,3 +140,6 @@ restaurant-management/
 10. **Reservation System**: Implement a table reservation system
 
 
+## Approximate time to complete this 
+
+Around 3.5 hrs 
