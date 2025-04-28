@@ -50,7 +50,7 @@ A comprehensive web-based restaurant management system built with Next.js and Re
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/restaurant-management-system.git
+   git clone https://github.com/sauravtand/restaurant-management-system.git
    cd restaurant-management-system
    \`\`\`
 
@@ -139,7 +139,4 @@ restaurant-management/
 9. **Payment Processing**: Add payment processing capabilities
 10. **Reservation System**: Implement a table reservation system
 
-### License
 
-[MIT](LICENSE)
-"# restaurant-management-system" 
